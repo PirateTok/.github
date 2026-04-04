@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://piratetok.boats/logo1_1_alpha.png" alt="PirateTok" width="320" />
+  <img src="https://raw.githubusercontent.com/PirateTok/.github/main/profile/assets/og-banner-v2.png" alt="PirateTok" width="640" />
 </p>
 
 <h3 align="center">TikTok Live, unchained.</h3>
@@ -120,5 +120,5 @@ Every library is 0BSD. No signing server. No API keys. No gatekeepers. No one ge
 <h3 align="center">Come aboard :pirate_flag:  </h3>
 
 <p align="center">
-  <img src="https://piratetok.boats/footer.png" alt="PirateTok" width="100%" />
+  <img src="https://raw.githubusercontent.com/PirateTok/.github/main/profile/assets/footer.png" alt="PirateTok" width="100%" />
 </p>
